@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: tidak ada yang lucu kecuali yang lucu
-- ⚡ Fun fact: suka bikin lava richeese
+- ⚡ Fun fact: Nothing
 
 <!---
 UsaidAkmalLinoRabbanni/UsaidAkmalLinoRabbanni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
