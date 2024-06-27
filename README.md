@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web and security networking
 - 💞️ I’m looking to collaborate on all about technology
 - 📫 How to reach me Github only
-- 😄 Pronouns: Not playing by the rules
+- 😄 Pronouns: I’m Not playing by the rules,"if they were made by you"
 - ⚡ Fun fact: I like to see other people without being seen
 
 <!---
