@@ -33,13 +33,6 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-
-# Github Stats 🚀
-
-<img src="https://github-readme-stats.vercel.app/api?username=dodepersie&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="dodepersie's Stats" width="400">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dodepersie&theme=tokyonight&hide_border=true" alt="dodepersie's Streak" width="400">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodepersie&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="dodepersie's Top Languages" width="400">
-<img src="https://komarev.com/ghpvc/?username=dodepersie&style=for-the-badge" alt="Profile Views">
 <!---
 UsaidAkmalLinoRabbanni/UsaidAkmalLinoRabbanni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
