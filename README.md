@@ -1,3 +1,5 @@
+# Technologies that I have experience with 🚀
+
 - 👋 Hi, I’m @UsaidAkmalLino
 - 👀 I’m interested in all about technology
 - 🌱 I’m currently learning web and security networking
@@ -5,8 +7,6 @@
 - 📫 How to reach me Github only
 - 😄 Pronouns: I’m Not playing by the rules,"if they were made by you"
 - ⚡ Fun fact: I like to see other people without being seen
-
-# Technologies that I have experience with 🚀
 
 # Text Editor
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
