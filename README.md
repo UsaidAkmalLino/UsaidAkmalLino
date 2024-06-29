@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif width="999"  height="600" ">
+  <img src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif width="999"  height="500" ">
 </div>
 <br>
 
