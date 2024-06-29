@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fussfeed.com%2Fseorang-hacker-targetkan-kampus-lamanya-sebar-foto-bugil-mahasiswi%2Fpop-culture%2F&psig=AOvVaw1IHqODkSw3dir3Gf5vwyBW&ust=1719731895303000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKCHgt2igIcDFQAAAAAdAAAAABAE
-">
+  <img src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif">
 </div>
 <br>
 
