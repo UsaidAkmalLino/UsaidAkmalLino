@@ -6,7 +6,7 @@
 
 # Technologies that I have experience with 🚀
 
-- 👋 Hi, I’m @UsaidAkmalLino
+- 👋 Hi, I’m @UsaidAkmalLino 👨‍💻I'm just a stupid person who is a technology maniac
 - 👀 I’m interested in all about technology
 - 🌱 I’m currently learning web and security networking
 - 💞️ I’m looking to collaborate on all about technology
