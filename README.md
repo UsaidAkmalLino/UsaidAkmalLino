@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Monaco&color=ffffff&size=45&center=true&vCenter=true&width=1000&lines=Hallo+!+Welcome+to+My+Room)](https://github.com/UsaidAkmalLino)
+
+
 <div align="center">
   <img src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif width="999"  height="500" ">
 </div>
