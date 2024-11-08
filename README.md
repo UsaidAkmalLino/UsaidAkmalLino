@@ -63,6 +63,25 @@
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![RouterOS](https://img.shields.io/badge/RouterOS-D9252F?style=for-the-badge&logo=mikrotik&logoColor=white)
 
+## 📊 GitHub Stats & Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UsaidAkmalLino&theme=radical" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=UsaidAkmalLino&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsaidAkmalLino&layout=compact&theme=radical&langs_count=8&custom_title=Top%20Languages&hide=java&card_width=445" alt="Top Languages" />
+</p>
+
+## 🛠️ Skills
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Advanced-green?style=for-the-badge&logo=python" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML-Intermediate-orange?style=for-the-badge&logo=html5" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-Intermediate-blue?style=for-the-badge&logo=css3" alt="CSS" />
+  <img src="https://img.shields.io/badge/Linux-Intermediate-yellow?style=for-the-badge&logo=linux" alt="Linux" />
+</p>
+
 
 
 <!---
