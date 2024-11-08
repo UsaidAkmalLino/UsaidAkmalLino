@@ -19,8 +19,6 @@
 - 👋 Hi, I’m @UsaidAkmalLino 👨‍💻I'm just a stupid person who is a technology maniac
 - 👀 I’m interested in all about technology
 - 🌱 I’m currently learning web and security networking
-- 💞️ I’m looking to collaborate on all about technology
-- 📫 How to reach me Github only
 - 👾 I’m Not playing by the rules,"if they were made by you".
 - ⚡ Fun fact: I like to see other people without being seen
 
